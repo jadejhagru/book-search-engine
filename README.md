@@ -108,4 +108,4 @@ Jade Jhagru
 
 ## Questions
 
-If you have any questions about the repository, contact me directly at j.jhgru@outlook.com. You can find more of my work at https://github.com/jadejhagru.
+If you have any questions about the repository, contact me directly at j.jhagru@outlook.com. You can find more of my work at https://github.com/jadejhagru.
