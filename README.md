@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Book Search Engine](https://book-search-99.herokuapp.com//)<br />
+[Book Search Engine](https://book-search-99.herokuapp.com/)<br />
 ![mern](https://user-images.githubusercontent.com/77811320/125497799-9fe1d946-c962-4c66-8de2-8d02aa4079b3.gif)<br />
 
 
