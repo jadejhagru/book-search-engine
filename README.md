@@ -21,8 +21,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)<br />
-![Image](https://github.com/izabelacloud/Book-Search-Engine/blob/master/mern.gif?raw=true)<br />
+[Book Search Engine](https://book-search-99.herokuapp.com//)<br />
+![mern](https://user-images.githubusercontent.com/77811320/125497799-9fe1d946-c962-4c66-8de2-8d02aa4079b3.gif)<br />
 
 
 ## Usage
@@ -103,9 +103,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Contributing
 
-Izabela Petrovicova
+Jade Jhagru
 
 
 ## Questions
 
-If you have any questions about the repository, contact me directly at i.petrovicova@gmail.com. You can find more of my work at https://github.com/izabelacloud.
+If you have any questions about the repository, contact me directly at j.jhgru@outlook.com. You can find more of my work at https://github.com/jadejhagru.
